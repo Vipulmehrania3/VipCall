@@ -1,0 +1,8 @@
+{
+  "name": "Gemini AI Video Caller",
+  "description": "An AI-powered video chat application that provides real-time transcriptions of your conversation with Gemini.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
